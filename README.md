@@ -1,2 +1,2 @@
-# PointOFsale
+# PointOfsale
  
